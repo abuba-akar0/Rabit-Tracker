@@ -13,7 +13,7 @@ A simple, beautiful mobile app that helps you break bad habits by celebrating co
 
 ## 📱 Download APK
 
-**Latest Release: v1.0.0**
+**Beta Latest Release: v1.0.0**
 
 📥 **[Download APK](APK%20File/app-release.apk)**
 
