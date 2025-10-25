@@ -15,7 +15,7 @@ A simple, beautiful mobile app that helps you break bad habits by celebrating co
 
 **Latest Release: v1.0.0**
 
-📥 **[Download APK](APK%20File/reverse-habit-tracker-v1.0.0.apk)**
+📥 **[Download APK](APK%20File/app-release.apk)**
 
 > **Note:** The APK file is located in the `APK File` directory of this repository.
 
